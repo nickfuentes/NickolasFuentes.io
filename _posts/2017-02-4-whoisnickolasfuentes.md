@@ -1,8 +1,8 @@
 ---
 title: "Who Is Nickolas Fuentes"
 date: 2018-01-28
-tags: [Who, Nickolas Fuentes, Developer]
-excerpt: "Who Am I? This post will let you know I got into web development and how I plan on taking the next steps to become a developer."
+tags: [Development, Blogging, Developer]
+excerpt: "Who Am I? This post will let you know a little bit about myself."
 ---
 
 The name is Nickolas Fuentes but I go by Nick. I just moved back to my hometown of Houston, Texas after obtaining a degree in Public Relations and Mass Communications. I would love to stay in the city of Houston but if I ever got a job opportunity to move up north, where seasons actually exist, it will be a hard decision.
